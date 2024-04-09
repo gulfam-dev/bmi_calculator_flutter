@@ -1,6 +1,6 @@
 # SlimCalc BMI Calculator
 
-SlimCalc is a flutter BMI project that enables users to select their gender and input weight via a slider, swiftly calculating their BMI. It's a user-friendly tool for monitoring health and promoting awareness of body mass index.
+SlimCalc is a flutter BMI project that enables users to select their gender, enter age, and input weight via a slider, swiftly calculating their BMI. It's a user-friendly tool for monitoring health and promoting awareness of body mass index.
 
 
 <img width="303" alt="Screenshot 2024-03-21 at 7 28 09 PM" src="https://github.com/gulfam-dev/bmi_calculator_flutter/assets/146335824/3e6f5d62-3962-4910-9145-fa3c12489cc1">
